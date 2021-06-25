@@ -9,11 +9,15 @@
 
 - 👨‍💻 My portfolio [https://narayan-mishra.netlify.app/](https://narayan-mishra.netlify.app/)
 
+- 🌱 My Leetcode Profile [LeetCode](https://leetcode.com/mishrashri/) 
+
 - 💬 Connect with me on **https://www.linkedin.com/in/narayan-mishra-b25657170/**
 
-- 📫 How to reach me **killer2017silent@gmail.com**
+- 📫 How to reach me **killer2017silent@gmail.com** 
 
-- 📄 Explore my Profile 🐱‍🏍 [https://www.instagram.com/mishrashrihere/](https://www.instagram.com/mishrashrihere/)
+- 🤳 My twitter where I tweet most of programming stuff [Twitter](https://twitter.com/mishrashrihere)
+
+- 📄 Explore my Profile 🐱‍🏍 [Instagram](https://www.instagram.com/mishrashrihere/)
 
 - ⚡ Fun fact **I like to sing while I'm in difficult situation 😁**
 
